@@ -13,3 +13,17 @@ body{
 section {
     background-color: rgb(247, 137, 137);
 }
+
+.imagem {
+    width: 500px;
+}
+.mapa{
+    width: 10%;
+}
+
+.beck{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
